@@ -12,6 +12,8 @@
 
      printf("Joseph Vanderbeek!\n");
      printf("Undeclared\n");
-
+     printf("Josh Nazarenus\n");
+     printf("Computer Science\n");
+   
      return 0;
  }
